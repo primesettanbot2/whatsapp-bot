@@ -1,13 +1,13 @@
 {
-    "name": "Bottus",
+    "name": "primesettanbot2",
     "description": " Whatsapp bot.",
     "keywords": [
-        "whatsapp",
+        "primesettanbot2",
         "bot"
     ],
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "ASENA_SESSION": {LyFE;;;eyJjbGllbnRJRCI6InVhM1pGanZvaVRjdlZMV0lRN3k0N3c9PSIsInNlcnZlclRva2VuIjoiMUBCYTQ1eU9XZ0ZkNUZtdGFMUGpNWktocmJCY1MyUkUwOFhjaElFeExVQmdZQTg2eWFTTVBpQWF0QytGV3JiWEFlWEQyNkY3c0dQYUZQM3c9PSIsImNsaWVudFRva2VuIjoiQ3JkaTRGVnBXT3F5bnR5NHZzRFliMzVlaUJrS2psRTB3cjB1aVVHQTcydz0iLCJlbmNLZXkiOiJoVjJ4VlB5a3o1ck5pT011ODZzZm9YdlpBbDRpQXhPME9CSGEvQyt0azhJPSIsIm1hY0tleSI6ImxTRTRFSUNrOG1VMWl0Mkg1STdubTdWaDZ5dktWc0xtMFVLRnhYdGUvWUE9In0=
             "description": "Enter whatsapp web session.",
             "required": true
         },
@@ -30,11 +30,11 @@
             "required": true,
             "value": "true"
         },
-        "HEROKU_API_KEY": {
+        "HEROKU_API_KEY": {0aca3df9-b085-48e7-b36c-cdac727280fa
             "description": "Enter Heroku API Key.",
             "required": true
         },
-        "HEROKU_APP_NAME": {
+        "HEROKU_APP_NAME": {primesettanbot2
             "description": "Enter Heroku APP Name.",
             "required": true
         },
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "PRIME SETTAN♥️"
         },
         "DISABLE_BOT": {
             "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
